@@ -1,4 +1,7 @@
-* Heap
+## Array
+1. Longest Subarray with Sum K- [https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1)
+2. 
+* Heap 
 1. Task Scheduler
 2. Hands of Straights
 
