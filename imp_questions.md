@@ -1,6 +1,8 @@
 ## Array
 1. Longest Subarray with Sum K- [https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1)
-2. 
+2. Subarray Sum Equals K- [https://leetcode.com/problems/subarray-sum-equals-k/description/](https://leetcode.com/problems/subarray-sum-equals-k/description/)
+3. Maximum Sub Array- [https://www.geeksforgeeks.org/problems/maximum-sub-array5443/1](https://www.geeksforgeeks.org/problems/maximum-sub-array5443/1)
+4. Next Permutation- [https://leetcode.com/problems/next-permutation/description/](https://leetcode.com/problems/next-permutation/description/)
 * Heap 
 1. Task Scheduler
 2. Hands of Straights
